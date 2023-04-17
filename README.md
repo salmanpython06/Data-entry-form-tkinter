@@ -11,7 +11,7 @@ To use this script, simply run the data_entry_form.py file using Python 3. The d
 ## output after running data_entry_form.py
 ![Alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg)
 
-## Ented data will be saved like this.
+## Entered data will be saved like this.
 ![alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/form_data_saved_here.jpg)
 
 
