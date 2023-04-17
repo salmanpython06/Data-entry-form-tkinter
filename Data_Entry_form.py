@@ -11,7 +11,6 @@
 import tkinter as tk
 from tkinter import ttk
 from csv import DictWriter
-import os
 
 win = tk.Tk()
 win.title("Gui Project")
