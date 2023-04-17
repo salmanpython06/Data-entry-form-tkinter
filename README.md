@@ -8,7 +8,15 @@ To run this script, you'll need Python 3 and the Tkinter library installed on yo
 Usage
 To use this script, simply run the data_entry_form.py file using Python 3. The data entry form will appear on your screen. Fill in the fields as desired, and then click the "Save" button to save your data to a CSV file.
 
+## output after running data_entry_form.py
+![Alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg)
+
+## Ented data will be saved like this.
+![alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/form_data_saved_here.jpg)
+
+
 ## Contributing
 If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub.
 
-![Alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg)
+
+
