@@ -11,4 +11,4 @@ To use this script, simply run the data_entry_form.py file using Python 3. The d
 ## Contributing
 If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub.
 
-![Alt text]((https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg))
+![Alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg)
